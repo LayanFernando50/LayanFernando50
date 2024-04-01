@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Layan Fernando</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=layanfernando50&label=Profile%20views&color=0e75b6&style=flat" alt="layanfernando50" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=layanfernando50&label=Profile%20views&color=0e75b6&style=flat" alt="layanfernando50" /> </p>
+<
 
 - 🔭 I’m currently a student at [Esoft Metro Campus](https://esoft.lk/)
 
