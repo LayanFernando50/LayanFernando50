@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a student at [Esoft Metro Campus](https://esoft.lk/)
 
-- 🌱 I’m currently learning **BEng (Hons) in Software Engineering**
+- 🌱 I’m currently learning **BEng (Hons) in Cyber Security**
 
 - 👯 I’m looking to collaborate on **Front End Developing Projects**
 
