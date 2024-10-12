@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/LayanFernando50)
 
-- 💬 Ask me about **Html, Css, JavaScript**
+- 💬 Ask me about **Html, Css, JavaScript, Python, Java**
 
 - 📫 How to reach me: **wlayanvf12@gmail.com**
 
