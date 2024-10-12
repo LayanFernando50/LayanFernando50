@@ -4,7 +4,7 @@
 <h3 align="center">A passionate backend developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=layanfernando50&label=Profile%20views&color=0e75b6&style=flat" alt="layanfernando50" /> </p>
 <
-- 🎓Pearson BTEC Level 5 HND in Computing Software Engineering at [Esoft Metro Campus] (https://esoft.lk/)
+- 🎓Pearson BTEC Level 5 HND in Computing Software Engineering at [Esoft Metro Campus](https://esoft.lk/)
   
 - 🔭 I’m currently a student at [Esoft Metro Campus]BEng (Hons) in Software Engineering (TOP UP) – London Met University (UK) (https://esoft.lk/)
 
