@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=layanfernando50&label=Profile%20views&color=0e75b6&style=flat" alt="layanfernando50" /> </p>
 <
 
-- 🔭 I’m currently a student at [Esoft Metro Campus](https://esoft.lk/)
+- 🔭 I’m currently a student at [Esoft Metro Campus]BEng (Hons) in Software Engineering (TOP UP) – London Met University (UK) (https://esoft.lk/)
 
 - 🌱 I’m currently learning **BEng (Hons) in Cyber Security**
 
