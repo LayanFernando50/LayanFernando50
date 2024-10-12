@@ -6,11 +6,11 @@
 <
 - 🎓Pearson BTEC Level 5 HND in Computing Software Engineering at Esoft Metro Campus
   
-- 🔭 I’m currently a student at [Esoft Metro Campus]BEng (Hons) in Software Engineering (TOP UP) – London Met University (UK) (https://esoft.lk/)
+- 🔭 I’m currently a student at [Esoft Metro Campus] Following BEng (Hons) in Software Engineering (TOP UP) – London Met University (UK) (https://esoft.lk/)
 
 - 🌱 I’m currently learning **BEng (Hons) in Cyber Security**
 
-- 👯 I’m looking to collaborate on **Front End Developing Projects**
+- 👯 I’m looking to collaborate on **Front End and BackEnd Developing Projects**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/LayanFernando50)
 
