@@ -6,7 +6,7 @@
 <
 - 🎓Successfully completed Pearson BTEC Level 5 HND in Computing Software Engineering at Esoft Metro Campus.
 
-- 🌱 I’m currently learning **BEng (Hons) in Software Engineering (TOP UP) – London Met University (UK)**
+- 🌱 I’m currently reading **BEng (Hons) in Software Engineering (TOP UP) – London Met University (UK)**
 
 - 👯 I’m looking to collaborate on **Front End and BackEnd Developing Projects**
 
